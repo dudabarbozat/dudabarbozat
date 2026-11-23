@@ -2,7 +2,7 @@
 
 Atuo na área de tecnologia desde 2019, com front-end, UX/UI e IA. Estudante de design, técnica em TI, certificada em Design Sprint.
 
-Hoje implanto IA em empresas pela [duda.click](https://duda.click/): diagnóstico dos processos, criação de skills para Claude Code, instalação e treinamento do time.
+Hoje implanto IA em empresas pela desde o diagnóstico dos processos, criação de skills para Claude Code, instalação e treinamento do time.
 
 Aqui ficam casos de implantação de IA, automações, protótipos de hackathons, experimentos com agentes e engenharia reversa.
 
